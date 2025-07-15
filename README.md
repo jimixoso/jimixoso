@@ -1,17 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Jimi Oso
 
-<!--
-**jimixoso/jimixoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Rising Junior @ MIT**  
+📚 Major: Electrical Engineering & Computer Science (EECS)  
+📈 Minor: Economics  
+🌍 From: Nigeria 🇳🇬 | Based in: Boston, MA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a student in Boston, majoring in computer science and electrical engineering (EECS) at MIT. My passion for technology has driven me to embark on a self-taught journey in software engineering, taking me from zero to where I am today. Along the way, I've worked on a variety of projects, from front-end to full-stack development, with a focus on AI, data systems, and software engineering. Exposure to both computer science and business practices has fueled my desire to continuously acquire new skills. I'm committed to hands-on learning and development, and my portfolio showcases coding projects that reflect my approach of starting from initial planning and design to solving complex problems.
+## 💡 About Me
+
+I'm a self-taught software engineer passionate about building scalable systems at the intersection of **technology**, **finance**, and **infrastructure**. Whether it's deploying apps in the cloud, building recommendation engines, or scraping and visualizing real-world data, I enjoy crafting thoughtful solutions to complex problems.
+
+In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Technology Services and Security), where I built an end-to-end intake system to automate cloud hosting decisions using Python, Flask, and custom scoring logic — reducing manual review time by 60%.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `C/C++` `JavaScript` `TypeScript` `Java` `SQL` `R` `HTML/CSS` `RISC-V Assembly`  
+
+**Frameworks & Tools**  
+`Flask` `Docker` `AWS` `VMWare` `PostgreSQL` `MongoDB` `Git` `Mapbox` `Three.js` `Tailwind` `Bootstrap`
+
+**Libraries**  
+`pandas` `NumPy` `Matplotlib` `TensorFlow` `PyTorch` `Seaborn`
+
+---
+
+## 🌐 Projects Highlight
+
+- **Cloud Hosting Recommendation System** – Automated infrastructure decisions for state apps (CLI + GUI + Web App)
+- **Museum 3D Artifact Explorer** – Interactive map-based web app to explore Ottoman fashion via 3D models
+- **Chesslab** – A browser-based chess training platform with real-time feedback and stats
+
+---
+
+## 📈 Goals
+
+- Break into **quantitative development** and **AI infrastructure** roles  
+- Build impactful products that live at the edge of **data, code, and human experience**  
+- Grow a network of curious builders and technologists
+
+---
+
+## 📫 Let's Connect
+
+- 🧠 [LinkedIn](https://linkedin.com/in/jimioso)  
+- 📂 [Resume](#) *(link it if available)*  
+- ✉️ Email: jimi [at] mit [dot] edu
+
+---
+
+_“Code should be as elegant as the ideas behind it.”_
