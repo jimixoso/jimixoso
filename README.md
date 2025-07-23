@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-I'm a self-taught software engineer passionate about building scalable systems at the intersection of **technology**, **finance**, and **infrastructure**. Whether it's deploying apps in the cloud, building recommendation engines, or scraping and visualizing real-world data, I enjoy crafting thoughtful solutions to complex problems.
+I'm a software enthusiast passionate about building scalable systems at the intersection of **technology**, **finance**, and **infrastructure**. Whether it's deploying apps in the cloud, building recommendation engines, or scraping and visualizing real-world data, I enjoy crafting thoughtful solutions to complex problems.
 
 In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Technology Services and Security), where I built an end-to-end intake system to automate cloud hosting decisions using Python, Flask, and custom scoring logic, reducing manual review time by 60%.
 
