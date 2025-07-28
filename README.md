@@ -38,7 +38,7 @@ In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Techn
 
 ## 📈 Goals
 
-- Break into **quantitative development** and **AI infrastructure**, and **backend systems**roles  
+- Break into **quantitative development** and **AI infrastructure**, and **backend systems** roles  
 - Build impactful products that live at the edge of **data, code, and human experience**  
 - Grow a network of curious builders and technologists
 
