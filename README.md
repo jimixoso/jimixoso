@@ -47,7 +47,7 @@ In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Techn
 ## 📫 Let's Connect
 
 - 🧠 [LinkedIn](https://linkedin.com/in/jimi-oso)  
-- 📂 [Resume](#)
+- 📂 [Resume](https://github.com/jimixoso/jimixoso/raw/main/resume.pdf)
 - ✉️ Email: jimixoso@mit.edu
 
 ---
