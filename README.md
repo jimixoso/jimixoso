@@ -1,46 +1,51 @@
-# 👋 Hi, I'm Jimi Oso
+👋 Hi, I'm Jimi Oso
 
-🎓 **Rising Junior @ MIT**  
+🎓 **Rising Senior @ MIT**  
 📚 Major: Electrical Engineering & Computer Science (EECS)  
 📈 Minor: Economics  
-🌍 From: Nigeria 🇳🇬 | Based in: Boston, MA
+🌍 From: Nigeria 🇳🇬 | Based in: Cambridge, MA
 
 ---
 
 ## 💡 About Me
 
-I'm a software enthusiast passionate about building scalable systems at the intersection of **technology**, **finance**, and **infrastructure**. Whether it's deploying apps in the cloud, building recommendation engines, or scraping and visualizing real-world data, I enjoy crafting thoughtful solutions to complex problems.
+I'm a software engineer and researcher building at the intersection of **ML infrastructure**, **retrieval/evaluation systems**, and **distributed backend systems**. I like turning fuzzy, hard-to-measure problems — is this search result actually good? is this embedding model actually better? — into concrete, testable pipelines.
 
-In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Technology Services and Security), where I am building an end-to-end intake system to automate cloud hosting decisions using Python, Flask, and custom scoring logic, reducing manual review time by 60%.
+Currently, I'm a **Machine Learning Engineering Intern at Expedia Group**, where I built **Cross-EG Bench**, an internal embedding-model evaluation framework used across Expedia's lines of business for reproducible retrieval benchmarking. I'm also an **Undergraduate Researcher at the MIT Media Lab / Latent Lab**, prototyping AI-native file-system concepts and building an LLM-judge evaluation pipeline for retrieval tasks.
+
+Previously, I built a hosting-recommendation platform used by 20+ Massachusetts state agencies as a Software Engineering Intern at **EOTSS**, and was a Software Engineering Fellow at **Jane Street's IN FOCUS Fellowship**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `C/C++` `JavaScript` `TypeScript` `Java` `SQL` `R` `HTML/CSS` `RISC-V Assembly`  
+`Python` `Go` `C/C++` `TypeScript` `JavaScript` `Java` `SQL` `R` `MATLAB` `RISC-V Assembly`
 
 **Frameworks & Tools**  
-`Flask` `Docker` `AWS` `VMWare` `PostgreSQL` `MongoDB` `Git` `Mapbox` `Three.js` `Tailwind` `Bootstrap`
+`FastAPI` `Docker` `Kubernetes` `Google Cloud Platform` `AWS` `React` `Next.js` `Git` `WebSockets`
 
 **Libraries**  
-`pandas` `NumPy` `Matplotlib` `TensorFlow` `PyTorch` `Seaborn`
+`NumPy` `pandas` `TensorFlow` `PyTorch` `LangChain` `scikit-learn` `Plotly` `Matplotlib` `Seaborn`
+
+**Databases**  
+`PostgreSQL` `Redis` `MongoDB` `Firebase`
 
 ---
 
 ## 🌐 Projects Highlight
 
-- **Cloud Hosting Recommendation System** – Automated infrastructure decisions for state apps (CLI + GUI + Web App)
-- **Museum 3D Artifact Explorer** – Interactive map-based web app to explore Ottoman fashion via 3D models
-- **Chesslab** – A browser-based chess training platform with real-time feedback and stats
+- **[TrueSplit](https://truesplit-wheat.vercel.app)** – Group expense-splitting engine on a double-entry ledger with idempotent Go APIs; Redis + PostgreSQL enforce exactly-once effects under concurrent duplicate requests; Next.js dashboard with live balance updates over Server-Sent Events
+- **[SentinelStream](https://sentinelstream-5qls.onrender.com)** – Real-time fraud detection pipeline in Go using Redis Streams consumer groups and five explainable rule-based signals, including GeoHash-based impossible-travel detection
+- **Cross-EG Bench** (Expedia Group) – Internal embedding-model evaluation framework enabling reproducible retrieval benchmarking on LLM-judged and human-annotated datasets
 
 ---
 
 ## 📈 Goals
 
-- Break into **quantitative development** and **AI infrastructure**, and **backend systems** roles  
-- Build impactful products that live at the edge of **data, code, and human experience**  
-- Grow a network of curious builders and technologists
+- Go deeper into **ML infrastructure**, **retrieval/evaluation systems**, and **distributed backend systems**
+- Build tools that make it easy to measure whether AI systems are actually working, not just whether they run
+- Grow a network of curious builders, researchers, and technologists
 
 ---
 
@@ -52,4 +57,4 @@ In Summer 2025, I interned at **EOTSS** (Massachusetts Executive Office of Techn
 
 ---
 
-_“Code should be as elegant as the ideas behind it.”_
+_"Code should be as elegant as the ideas behind it."_
